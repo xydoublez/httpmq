@@ -5,3 +5,4 @@ $ go get github.com/golang/snappy
 
 Unless otherwise noted, the Snappy-Go source files are distributed
 under the BSD-style license found in the LICENSE file.
+test
